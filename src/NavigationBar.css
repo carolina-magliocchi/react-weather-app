@@ -1,0 +1,23 @@
+nav {
+  margin-top: 10px;
+  margin-bottom: 40px;
+  padding: 0 !important;
+  background-color: transparent;
+}
+.form-control {
+  color: #1e56a0;
+  border: 1px solid #1e56a0;
+}
+.form-control::-webkit-input-placeholder {
+  color: #1e56a0;
+}
+button.btn-primary {
+  color: white;
+  background: #1e56a0;
+  border-color: #1e56a0;
+}
+button.btn-primary:hover {
+  color: #1e56a0;
+  background: white;
+  border-color: #1e56a0;
+}
